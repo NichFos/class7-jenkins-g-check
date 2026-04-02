@@ -66,3 +66,4 @@ resource "aws_s3_object" "repo_txt01" {
   etag         = filemd5("armageddon-repo.txt")
 }
 
+# 
